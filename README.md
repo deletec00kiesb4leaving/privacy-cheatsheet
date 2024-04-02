@@ -12,7 +12,7 @@ Manual for Privacy in Today's World
 | Service  | Service Providers |
 | ------------- | ------------- |
 | *Email:* | [Proton Mail](https://proton.me/mail) [^1], [Simplelogin](https://simplelogin.io/) |
-| *VPN:* | [Proton VPN](https://protonvpn.com/) [^1] |
+| *VPN:* | [Proton VPN](https://protonvpn.com/) [^1], [Mullvad VPN](https://mullvad.net/en) |
 | *2FA:* | [Yubico Keys](https://www.yubico.com/) |
 | *Browser:* | [Tor Browser](https://www.torproject.org/), [Brave Browser](https://brave.com/)[^2] |
 | *Messaging:* | [Signal](https://signal.org/) |
