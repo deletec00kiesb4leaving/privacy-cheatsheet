@@ -17,9 +17,12 @@ Manual for Privacy in Today's World
 | *Browser:* | [Tor Browser](https://www.torproject.org/), [Brave Browser](https://brave.com/)[^2] |
 | *Messaging:* | [Signal](https://signal.org/) |
 | *File Transfer:* | [Wormhle.app](https://wormhole.app/), [Tresorit Send](https://send.tresorit.com/)|
-| *Operation System:* | [TailsOS](https://tails.net/)[^3] |
+| *Operation System:* | [TailsOS](https://tails.net/)[^3], [GrapheneOS (Android)](https://grapheneos.org/) |
 | *Cloud Storage:* | [Proton Drive](https://proton.me/drive)[^1] |
-| *Password Manager:* | [Proton Pass](https://proton.me/pass)[^1], [KeePassXC](https://keepassxc.org/)| 
+| *Password Manager:* | [Proton Pass](https://proton.me/pass)[^1], [KeePassXC](https://keepassxc.org/)|
+| *Cryptocurrency Wallet:* | [Ledger](https://shop.ledger.com/), [Trezor](https://trezor.io/compare)|
+| *DNS&AD Blockers* | [AdGuardHome](https://adguard.com/en/welcome.html), [uBlock Origin](https://ublockorigin.com/), [Privacy Badger](https://privacybadger.org/) |
+| *LLM (Locally)* | [Kaggle](https://www.kaggle.com/models) |
 
 
 [^1]: [Proton Suite](https://proton.me/) Privacy Focused: Email (Logs IP Address), VPN, Cloud Storage, Password Manager, Calendar
